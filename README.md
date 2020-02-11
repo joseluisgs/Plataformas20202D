@@ -4,7 +4,7 @@
 ## Tecnologías
 * Unity 2018.4 LTS
 
-### Desarrollo
+## Desarrollo
 * 04/02/2020. Inicio del proyecto
 * 05/02/2020. Colisión con el juego. Destructor de enemigos, generador de enemigos, atacar enemigos.
 * 06/02/2020. Desplazamiento de camara de y suelo y generación de items (recolectables o monedas)
@@ -22,5 +22,5 @@ José Luis González Sánchez: [@joseluisgonsan](https://twitter.com/joseluisgon
 
 2020 CIFP Virgen de Gracia
 
-#### Otros
+##### Otros
 Inspirado en el curso de [OpenWebinars](https://openwebinars.net/cursos/unity-videojuegos-2d/) que se recomendó al alumnado.
