@@ -180,7 +180,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Jos\xE9 Luis Gonz\xE1lez. 2020"
+  m_Text: Jose Luis Gonzalez. 2020
 --- !u!222 &26717053
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1505,7 +1505,6 @@ MonoBehaviour:
   velocidad: 0.2
   salto: 400
   animator: {fileID: 1666089316}
-  enemigo: {fileID: 8945220909799569504, guid: ec4d4a2d6295149d8a31bdd9eaad0bac, type: 3}
   sonidoSalto: {fileID: 0}
   "sonidoDa\xF1o": {fileID: 0}
   sonidoMuerte: {fileID: 0}

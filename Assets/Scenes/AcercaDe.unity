@@ -925,7 +925,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Jose Luis Gonzaelez
+  m_Text: Jose Luis Gonzalez
 --- !u!222 &537540498
 CanvasRenderer:
   m_ObjectHideFlags: 0

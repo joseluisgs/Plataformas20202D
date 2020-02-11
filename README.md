@@ -13,7 +13,8 @@
 * 09/02/2020. GameManager. Funcionalidad Interfaz de usuario. Pantalla Game Over, Principal y AcercaDe
 * 09/02/2020. Sonidos. Musica de Fondo. Efectos: Botones, salto,ataque, moneda.
 * 10/02/2020. Limpieza de código y configuración de ejecutables Android y plataformas.
-* 11/02/2020. Optimización y mejoras.
+* 11/02/2020. Optimización y mejoras. Actualización a LTS Release 2018.4.17f1
+* 11/02/2020. Configuración de instalables y distribución
 
 
 ## Acerca de
