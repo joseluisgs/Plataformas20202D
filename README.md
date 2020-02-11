@@ -9,7 +9,7 @@
 * 05/02/2020. Colisión con el juego. Destructor de enemigos, generador de enemigos, atacar enemigos.
 * 06/02/2020. Desplazamiento de camara de y suelo y generación de items (recolectables o monedas)
 * 07/02/2020. Configurar escena.
-* 08/02/2020. Parallax. Animación Enemigo. Animación Personaje. Interfaz de usuario (Vida, Monedas, Botones de coontrol)
+* 08/02/2020. Parallax. Animación Enemigo. Animación Personaje. Interfaz de usuario (Vida, Monedas, Botones de control)
 * 09/02/2020. GameManager. Funcionalidad Interfaz de usuario. Pantalla Game Over, Principal y AcercaDe
 * 09/02/2020. Sonidos. Musica de Fondo. Efectos: Botones, salto,ataque, moneda.
 * 10/02/2020. Limpieza de código y configuración de ejecutables Android y plataformas.
